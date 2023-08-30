@@ -1,0 +1,23 @@
+Maps must be saved in the .png format with the spasific colors
+
+255, 255, 255, 255
+180, 180, 180, 255
+70, 70, 70, 255
+111, 49, 152, 255
+34, 177, 76, 255
+153, 0, 48, 255
+153, 217, 234, 255
+0, 183, 239, 255
+77, 109, 243, 255
+
+Images for the maps must be 10x15 and in the 32-bit color depth
+
+
+
+
+
+
+
+
+
+
